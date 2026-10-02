@@ -1,13 +1,10 @@
 ## About Me
 
-**Postdoctoral Scholar** | Chemical Sciences and Engineering Division | Argonne National Laboratory
-
-I am a postdoctoral researcher at Argonne National Laboratory specializing in separations science, Kirkwood–Buff theory, and thermodynamic modeling. I develop open-source computational tools in Python to support molecular dynamics simulations and thermodynamic analysis.
+**Assistant Chemist** | Research & Development | Eichrom Technologies
 
 ## 🔬 Research Interests
 
 - Separations Science
-- Kirkwood–Buff Theory
 - Molecular Design
 - Thermodynamic Modeling
 
@@ -18,9 +15,6 @@ The following tools were developed as part of my research and are hosted under t
 | Repository | Description |
 |---|---|
 | [**KBKit**](https://github.com/anl-sepsci/kbkit) | A Python toolkit for computing Kirkwood–Buff integrals from molecular dynamics simulations, with built-in convergence diagnostics and extrapolation to the thermodynamic limit. |
-| [**ELDORADO**](https://github.com/anl-sepsci/eldorado) | A flexible Python package for setting up and managing molecular dynamics simulations, including automated workflows for ACPYPE and LigParGen force field parameterization. |
-| [**LigParGen**](https://github.com/anl-sepsci/ligpargen) | A patched version of LigParGen optimized for use on Argonne's LCRC Improv cluster. |
-| [**PicMol**](https://github.com/anl-sepsci/picmol) | A liquid–liquid equilibria calculator implementing various thermodynamic models, including fitting of interaction parameters to experimental properties such as mixing enthalpy, entropy, and activity coefficients. |
 
 ## 🧰 Tech Stack
 
